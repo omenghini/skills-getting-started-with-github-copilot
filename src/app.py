@@ -67,7 +67,7 @@ activities = {
         "description": "Hands-on experiments and science exploration",
         "schedule": "Thursdays, 3:30 PM - 5:00 PM",
         "max_participants": 18,
-        "participants": ["ava@mergington.edu", "noah@mergington.edu"]
+        "participants": ["ava@mergington.edu", "noah@mergington.edu", "mia@mergington.edu"]
     },
     "Debate Team": {
         "description": "Practice public speaking and competitive debate",
